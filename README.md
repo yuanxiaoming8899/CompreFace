@@ -1,225 +1,201 @@
-
-<h1 align="center">Exadel CompreFace is a leading free and open-source face recognition system</h1>
-
-<p align="center">
-    <a target="_blank" href="https://exadel.com/solutions/compreface/">
-  <img src="https://user-images.githubusercontent.com/3736126/147130206-17234c47-8d40-490f-8d93-57014fa6d87e.png" alt="angular-logo" height="250px"/>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Exadel CompreFace 是领先的免费开源人脸识别系统</font></font></h1><a id="user-content-exadel-compreface-is-a-leading-free-and-open-source-face-recognition-system" class="anchor" aria-label="永久链接：Exadel CompreFace 是领先的免费开源人脸识别系统" href="#exadel-compreface-is-a-leading-free-and-open-source-face-recognition-system"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+    <a href="https://exadel.com/solutions/compreface/" rel="nofollow">
+  <img src="https://user-images.githubusercontent.com/3736126/147130206-17234c47-8d40-490f-8d93-57014fa6d87e.png" alt="角度标志" height="250px" style="max-width: 100%;">
  </a>
   <br>
-  <i>Exadel CompreFace is a free and open-source face recognition service that can be easily integrated into any system without prior machine learning skills. 
-     CompreFace provides REST API for face recognition, face verification, face detection, landmark detection, mask detection, head pose detection, age, and gender recognition and is easily deployed with docker.
-     </i>
+  <i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Exadel CompreFace 是一项免费的开源人脸识别服务，无需具备机器学习技能即可轻松集成到任何系统中。 CompreFace 提供用于人脸识别、人脸验证、人脸检测、地标检测、面具检测、头部姿势检测、年龄和性别识别的 REST API，并且可以通过 docker 轻松部署。
+     </font></font></i>
   <br>
 </p>
-
-<p align="center">
-  <a href="https://exadel.com/solutions/compreface/"><strong>Official website</strong></a>
+<p align="center" dir="auto">
+  <a href="https://exadel.com/solutions/compreface/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方网站</font></font></strong></a>
   <br>
 </p>
-
-<p align="center">
-  <a href="#contributing">Contributing</a>
+<p align="center" dir="auto">
+  <a href="#contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
   ·
-  <a href="https://github.com/exadel-inc/CompreFace/issues">Submit an Issue</a>
+  </font></font><a href="https://github.com/exadel-inc/CompreFace/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提交问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
   ·
-  <a href="https://exadel.com/news/tag/compreface/">Blog</a>
+  </font></font><a href="https://exadel.com/news/tag/compreface/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
   ·
-  <a href="https://gitter.im/CompreFace/community">Community chat</a>
+  </font></font><a href="https://gitter.im/CompreFace/community" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区聊天</font></font></a>
   <br>
 </p>
-
-<p align="center">
-  <a href="https://www.apache.org/licenses/LICENSE-2.0">
-    <img src="https://img.shields.io/github/license/exadel-inc/CompreFace" alt="GitHub license" />
+<p align="center" dir="auto">
+  <a href="https://www.apache.org/licenses/LICENSE-2.0" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/c4929f38c24d778f0f68df3aac9f73b5e651c695e63a47cb256df7cfd05ccdad/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f65786164656c2d696e632f436f6d70726546616365" alt="GitHub 许可证" data-canonical-src="https://img.shields.io/github/license/exadel-inc/CompreFace" style="max-width: 100%;">
   </a>&nbsp;
   <a href="https://github.com/exadel-inc/CompreFace/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/exadel-inc/CompreFace" alt="GitHub contributors" />
+    <img src="https://camo.githubusercontent.com/e16cc876e4bcd2870e52bba1c9c179880d517d271ca266ccf5890b0dca95a313/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f65786164656c2d696e632f436f6d70726546616365" alt="GitHub 贡献者" data-canonical-src="https://img.shields.io/github/contributors/exadel-inc/CompreFace" style="max-width: 100%;">
   </a>&nbsp;
 </p>
 <hr>
-
-# Table Of Contents
-
-  * [Overview](#overview)
-  * [Screenshots](#screenshots)
-  * [Video tutorials](#videos)
-  * [News and updates](#news-and-updates)
-  * [Features](#features)
-  * [Functionalities](#functionalities)
-  * [Getting Started with CompreFace](#getting-started-with-compreface)
-  * [CompreFace SDKs](#compreface-sdks)
-  * [Documentation](/docs)
-    * [How to Use CompreFace](/docs/How-to-Use-CompreFace.md)
-    * [Face Services and Plugins](/docs/Face-services-and-plugins.md)
-    * [Rest API Description](/docs/Rest-API-description.md)
-    * [Postman documentation and collection](https://documenter.getpostman.com/view/17578263/UUxzAnde)
-    * [Face Recognition Similarity Threshold](/docs/Face-Recognition-Similarity-Threshold.md)
-    * [Configuration](/docs/Configuration.md)
-    * [Architecture and Scalability](/docs/Architecture-and-scalability.md)
-    * [Custom Builds](/docs/Custom-builds.md)
-    * [Face data migration](/docs/Face-data-migration.md)
-    * [User Roles System](/docs/User-Roles-System.md)
-    * [Face Mask Detection Plugin](/docs/Mask-detection-plugin.md)
-    * [Kubernetes configuration](https://github.com/exadel-inc/compreface-kubernetes)
-    * [Gathering Anonymous Statistics](/docs/Gathering-anonymous-statistics.md)
-    * [Installation Options](/docs/Installation-options.md)
-  * [Contributing](#contributing)
-  * [License info](#license-info)
-
-# Overview
-
-Exadel CompreFace is a free and open-source face recognition GitHub project. 
-Essentially, it is a docker-based application that can be used as a standalone server or deployed in the cloud. 
-You don’t need prior machine learning skills to set up and use CompreFace.
-
-The system provides REST API for face recognition, face verification, face detection, landmark detection, mask detection, head pose detection, age, and gender recognition. 
-The solution also features a role management system that allows you to easily control who has access to your Face Recognition Services.
-
-CompreFace is delivered as a docker-compose config and supports different models that work on CPU and GPU. 
-Our solution is based on state-of-the-art methods and libraries like FaceNet and InsightFace.
-
-# Screenshots
-
-<p align="center">
-<img src="https://github.com/exadel-inc/CompreFace/assets/3736126/7b86a96f-844b-4e4b-9456-c53f6e45f305" 
-alt="compreface-recognition-page" width=390px style="padding: 0px 10px 0px 0px;">
-<img src="https://github.com/exadel-inc/CompreFace/assets/3736126/51efb9d0-70cc-4902-bc3f-fd85de004b67" 
-alt="compreface-dashboard-page" width="390px" style="padding: 0px 0px 0px 10px;">
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font></h1><a id="user-content-table-of-contents" class="anchor" aria-label="永久链接：目录" href="#table-of-contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="#overview"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概述</font></font></a></li>
+<li><a href="#screenshots"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截图</font></font></a></li>
+<li><a href="#videos"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频教程</font></font></a></li>
+<li><a href="#news-and-updates"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">新闻和更新</font></font></a></li>
+<li><a href="#features"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></a></li>
+<li><a href="#functionalities"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能</font></font></a></li>
+<li><a href="#getting-started-with-compreface"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CompreFace 入门</font></font></a></li>
+<li><a href="#compreface-sdks"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CompreFace SDK</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a>
+<ul dir="auto">
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/How-to-Use-CompreFace.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何使用 CompreFace</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Face-services-and-plugins.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人脸服务和插件</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Rest-API-description.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其余API说明</font></font></a></li>
+<li><a href="https://documenter.getpostman.com/view/17578263/UUxzAnde" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">邮递员文档和收集</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Face-Recognition-Similarity-Threshold.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人脸识别相似度阈值</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Configuration.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Architecture-and-scalability.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">架构和可扩展性</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Custom-builds.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">定制构建</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Face-data-migration.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人脸数据迁移</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/User-Roles-System.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户角色系统</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Mask-detection-plugin.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">口罩检测插件</font></font></a></li>
+<li><a href="https://github.com/exadel-inc/compreface-kubernetes"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kubernetes 配置</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Gathering-anonymous-statistics.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">收集匿名统计数据</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Installation-options.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装选项</font></font></a></li>
+</ul>
+</li>
+<li><a href="#contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a></li>
+<li><a href="#license-info"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证信息</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概述</font></font></h1><a id="user-content-overview" class="anchor" aria-label="永久链接：概述" href="#overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Exadel CompreFace 是一个免费的开源人脸识别 GitHub 项目。本质上，它是一个基于 docker 的应用程序，可以用作独立服务器或部署在云中。您不需要具备机器学习技能即可设置和使用 CompreFace。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">系统提供REST API，用于人脸识别、人脸验证、人脸检测、地标检测、面具检测、头部姿势检测、年龄和性别识别。该解决方案还具有角色管理系统，可让您轻松控制谁有权访问您的人脸识别服务。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CompreFace 作为 docker-compose 配置提供，支持在 CPU 和 GPU 上工作的不同模型。我们的解决方案基于最先进的方法和库，例如 FaceNet 和 InsightFace。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截图</font></font></h1><a id="user-content-screenshots" class="anchor" aria-label="永久链接：屏幕截图" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/3736126/241254942-7b86a96f-844b-4e4b-9456-c53f6e45f305.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNjIxMzYsIm5iZiI6MTcxMjM2MTgzNiwicGF0aCI6Ii8zNzM2MTI2LzI0MTI1NDk0Mi03Yjg2YTk2Zi04NDRiLTRlNGItOTQ1Ni1jNTNmNmU0NWYzMDUucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDZUMDAwMzU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NTE3NWUzYzNkN2ZlYmU3OThjZGZkYzQxNDVhM2JmZjM0NGM2ZDY1OGFjZmYwNWJhN2FmY2Q5YjMzZDFiZTFlNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.i1Jqjn-BPjKECNVP7zMhKde3D1QNlgH-dyE3YNSJv6g"><img src="https://private-user-images.githubusercontent.com/3736126/241254942-7b86a96f-844b-4e4b-9456-c53f6e45f305.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNjIxMzYsIm5iZiI6MTcxMjM2MTgzNiwicGF0aCI6Ii8zNzM2MTI2LzI0MTI1NDk0Mi03Yjg2YTk2Zi04NDRiLTRlNGItOTQ1Ni1jNTNmNmU0NWYzMDUucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDZUMDAwMzU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NTE3NWUzYzNkN2ZlYmU3OThjZGZkYzQxNDVhM2JmZjM0NGM2ZDY1OGFjZmYwNWJhN2FmY2Q5YjMzZDFiZTFlNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.i1Jqjn-BPjKECNVP7zMhKde3D1QNlgH-dyE3YNSJv6g" alt="compreface识别页面" width="390px" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/3736126/241252448-51efb9d0-70cc-4902-bc3f-fd85de004b67.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNjIxMzYsIm5iZiI6MTcxMjM2MTgzNiwicGF0aCI6Ii8zNzM2MTI2LzI0MTI1MjQ0OC01MWVmYjlkMC03MGNjLTQ5MDItYmMzZi1mZDg1ZGUwMDRiNjcucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDZUMDAwMzU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NmNhNjEwZGExOTNjM2U0MmI3NjgyMTQ4YmRmYzg3ODQ1YWYxNjVjZjQ3ZWMzM2MyNTQ4NjA5NTU3Nzg1OTI3MiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.AY5EpvN_JJkUZ2Ub9dNoaX2zg9_RKnWnGzI9NBZVYtQ"><img src="https://private-user-images.githubusercontent.com/3736126/241252448-51efb9d0-70cc-4902-bc3f-fd85de004b67.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNjIxMzYsIm5iZiI6MTcxMjM2MTgzNiwicGF0aCI6Ii8zNzM2MTI2LzI0MTI1MjQ0OC01MWVmYjlkMC03MGNjLTQ5MDItYmMzZi1mZDg1ZGUwMDRiNjcucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDZUMDAwMzU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NmNhNjEwZGExOTNjM2U0MmI3NjgyMTQ4YmRmYzg3ODQ1YWYxNjVjZjQ3ZWMzM2MyNTQ4NjA5NTU3Nzg1OTI3MiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.AY5EpvN_JJkUZ2Ub9dNoaX2zg9_RKnWnGzI9NBZVYtQ" alt="compreface 仪表板页面" width="390px" style="max-width: 100%;"></a>
 </p>
-
 <details>
-  <summary> <b>More Screenshots</b> </summary>
-  <!-- have to be followed by an empty line! -->
-
-<p align="center">
-<img src="https://github.com/exadel-inc/CompreFace/assets/3736126/3ae0ce68-588b-4370-8eaf-32668c96fa63"
-alt="compreface-verification-page" width=390px style="padding: 0px 10px 0px 0px;">
-<img src="https://github.com/exadel-inc/CompreFace/assets/3736126/9246702d-1c9b-4435-8098-89e0fb616b0d"
-alt="compreface-detection-page" width="390px" style="padding: 0px 0px 0px 10px;">
+  <summary> <b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多截图</font></font></b> </summary>
+  
+<p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/3736126/241255222-3ae0ce68-588b-4370-8eaf-32668c96fa63.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNjIxMzYsIm5iZiI6MTcxMjM2MTgzNiwicGF0aCI6Ii8zNzM2MTI2LzI0MTI1NTIyMi0zYWUwY2U2OC01ODhiLTQzNzAtOGVhZi0zMjY2OGM5NmZhNjMucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDZUMDAwMzU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZmIwYzc3NWM1YWRhMTlmYjY2MjA3NTQ4MDFiYTk0N2VmZDAwY2Q1YjNmNjk5M2Y2Y2RiZDNhNGUxMTMyNjc3OSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.9omFVe4n7c_tYX_Xx0oYQOcY-kIXJlzU1KcgtJr4lAk"><img src="https://private-user-images.githubusercontent.com/3736126/241255222-3ae0ce68-588b-4370-8eaf-32668c96fa63.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNjIxMzYsIm5iZiI6MTcxMjM2MTgzNiwicGF0aCI6Ii8zNzM2MTI2LzI0MTI1NTIyMi0zYWUwY2U2OC01ODhiLTQzNzAtOGVhZi0zMjY2OGM5NmZhNjMucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDZUMDAwMzU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZmIwYzc3NWM1YWRhMTlmYjY2MjA3NTQ4MDFiYTk0N2VmZDAwY2Q1YjNmNjk5M2Y2Y2RiZDNhNGUxMTMyNjc3OSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.9omFVe4n7c_tYX_Xx0oYQOcY-kIXJlzU1KcgtJr4lAk" alt="compreface 验证页面" width="390px" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/3736126/241255302-9246702d-1c9b-4435-8098-89e0fb616b0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNjIxMzYsIm5iZiI6MTcxMjM2MTgzNiwicGF0aCI6Ii8zNzM2MTI2LzI0MTI1NTMwMi05MjQ2NzAyZC0xYzliLTQ0MzUtODA5OC04OWUwZmI2MTZiMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDZUMDAwMzU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YmNiYmQ5NDM5MzA1MGU0OTRiZjIzODk5MTE2MjI4NTU4YmFmMjJiMTg4MzgyYjcwMzJiMTI4OWFmYmFiNjU2YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.VzDSQNN-fsddEbki70OewLbIEnkym7If9bDNOlxlrpo"><img src="https://private-user-images.githubusercontent.com/3736126/241255302-9246702d-1c9b-4435-8098-89e0fb616b0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNjIxMzYsIm5iZiI6MTcxMjM2MTgzNiwicGF0aCI6Ii8zNzM2MTI2LzI0MTI1NTMwMi05MjQ2NzAyZC0xYzliLTQ0MzUtODA5OC04OWUwZmI2MTZiMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDZUMDAwMzU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YmNiYmQ5NDM5MzA1MGU0OTRiZjIzODk5MTE2MjI4NTU4YmFmMjJiMTg4MzgyYjcwMzJiMTI4OWFmYmFiNjU2YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.VzDSQNN-fsddEbki70OewLbIEnkym7If9bDNOlxlrpo" alt="compreface 检测页面" width="390px" style="max-width: 100%;"></a>
 </p>
-<p align="center">
-<img src="https://github.com/exadel-inc/CompreFace/assets/3736126/3a5787e6-9a85-4852-92dc-a82fe7ef8f7c" 
-alt="compreface-services-page" width=390px style="padding: 0px 10px 0px 0px;">
-<img src="https://github.com/exadel-inc/CompreFace/assets/3736126/e7fd0258-2643-4cec-809d-988502eb857f" 
-alt="compreface-wizzard-page" width="390px" style="padding: 0px 0px 0px 10px;">
+<p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/3736126/241255393-3a5787e6-9a85-4852-92dc-a82fe7ef8f7c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNjIxMzYsIm5iZiI6MTcxMjM2MTgzNiwicGF0aCI6Ii8zNzM2MTI2LzI0MTI1NTM5My0zYTU3ODdlNi05YTg1LTQ4NTItOTJkYy1hODJmZTdlZjhmN2MucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDZUMDAwMzU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzU3ZDlhN2FkMmJkMzhjYzA0OWE0NzJhMTZkZDg5MDVhNTFhZmMzN2Y0MWNjODk4Nzk3NGQ2NGNjZDNhNWMwOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.xl0c_C4WmRFIgoiKDoUwxiBHrGH9Xh5QzajxAejoLRo"><img src="https://private-user-images.githubusercontent.com/3736126/241255393-3a5787e6-9a85-4852-92dc-a82fe7ef8f7c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNjIxMzYsIm5iZiI6MTcxMjM2MTgzNiwicGF0aCI6Ii8zNzM2MTI2LzI0MTI1NTM5My0zYTU3ODdlNi05YTg1LTQ4NTItOTJkYy1hODJmZTdlZjhmN2MucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDZUMDAwMzU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzU3ZDlhN2FkMmJkMzhjYzA0OWE0NzJhMTZkZDg5MDVhNTFhZmMzN2Y0MWNjODk4Nzk3NGQ2NGNjZDNhNWMwOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.xl0c_C4WmRFIgoiKDoUwxiBHrGH9Xh5QzajxAejoLRo" alt="compreface 服务页面" width="390px" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/3736126/241255478-e7fd0258-2643-4cec-809d-988502eb857f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNjIxMzYsIm5iZiI6MTcxMjM2MTgzNiwicGF0aCI6Ii8zNzM2MTI2LzI0MTI1NTQ3OC1lN2ZkMDI1OC0yNjQzLTRjZWMtODA5ZC05ODg1MDJlYjg1N2YucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDZUMDAwMzU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZmM5ZmE1MmVlNzJjMDczYWQzN2Q1ZjFlMzhlY2FmODNkZTI4NjM0MjA4OTA5OWQ4MTgyZmVkOTE1NjI3ODNiOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.NIgKoWXRQOUR83xDTv50CxS_v3-Hk0V9-Skc9lZBaQk"><img src="https://private-user-images.githubusercontent.com/3736126/241255478-e7fd0258-2643-4cec-809d-988502eb857f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNjIxMzYsIm5iZiI6MTcxMjM2MTgzNiwicGF0aCI6Ii8zNzM2MTI2LzI0MTI1NTQ3OC1lN2ZkMDI1OC0yNjQzLTRjZWMtODA5ZC05ODg1MDJlYjg1N2YucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MDZUMDAwMzU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZmM5ZmE1MmVlNzJjMDczYWQzN2Q1ZjFlMzhlY2FmODNkZTI4NjM0MjA4OTA5OWQ4MTgyZmVkOTE1NjI3ODNiOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.NIgKoWXRQOUR83xDTv50CxS_v3-Hk0V9-Skc9lZBaQk" alt="compreface 向导页面" width="390px" style="max-width: 100%;"></a>
 </p>
-
 </details>
-
-# Videos
-
-<p align="center">
-<a target="_blank" href="https://www.youtube.com/watch?v=LS4sVTnI-gI">
-     <img src="https://user-images.githubusercontent.com/3736126/241272669-8609463b-8b22-4ae7-bf21-36761f00734b.jpg" 
-        alt="CompreFace Face Detection Demo" width=390px style="padding: 0px 10px 0px 0px;">
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></h1><a id="user-content-videos" class="anchor" aria-label="永久链接：视频" href="#videos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+<a href="https://www.youtube.com/watch?v=LS4sVTnI-gI" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/3736126/241272669-8609463b-8b22-4ae7-bf21-36761f00734b.jpg" alt="CompreFace 人脸检测演示" width="390px" style="max-width: 100%;">
 </a>
-<a target="_blank" href="https://www.youtube.com/watch?v=jkiA3S-LYSk">
-     <img src="https://user-images.githubusercontent.com/3736126/242002411-3c06d3f7-c0ac-49f8-ac79-42bd8c431570.png" 
-        alt="CompreFace Appery.io Demo" width=390px style="padding: 0px 10px 0px 0px;">
+<a href="https://www.youtube.com/watch?v=jkiA3S-LYSk" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/3736126/242002411-3c06d3f7-c0ac-49f8-ac79-42bd8c431570.png" alt="CompreFace Appery.io 演示" width="390px" style="max-width: 100%;">
 </a>
 </p>
-
 <details>
-  <summary> <b>More Videos</b> </summary>
-  <!-- have to be followed by an empty line! -->
-
-<p align="center">
-<a target="_blank" href="https://www.youtube.com/watch?v=cF3P7bTJXY0">
-     <img src="https://user-images.githubusercontent.com/3736126/241274256-0dc6d8a0-91d5-42c4-b029-200b72bb169b.jpg" 
-        alt="CompreFace .NET SDK Demo" width=390px style="padding: 0px 10px 0px 0px;">
+  <summary> <b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多视频</font></font></b> </summary>
+  
+<p align="center" dir="auto">
+<a href="https://www.youtube.com/watch?v=cF3P7bTJXY0" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/3736126/241274256-0dc6d8a0-91d5-42c4-b029-200b72bb169b.jpg" alt="CompreFace .NET SDK 演示" width="390px" style="max-width: 100%;">
 </a>
-<a target="_blank" href="https://www.youtube.com/watch?v=9mQULPrTVP4">
-     <img src="https://user-images.githubusercontent.com/3736126/241274522-a152221f-e382-416c-9a71-f7694e73cf3e.jpg" 
-        alt="CompreFace JavaScript SDK Demo" width=390px style="padding: 0px 10px 0px 0px;">
+<a href="https://www.youtube.com/watch?v=9mQULPrTVP4" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/3736126/241274522-a152221f-e382-416c-9a71-f7694e73cf3e.jpg" alt="CompreFace JavaScript SDK 演示" width="390px" style="max-width: 100%;">
 </a>
 </p>
-
 </details>
-
-# News and updates
-
-[Subscribe](https://info.exadel.com/en/compreface-news-and-updates) to CompreFace News and Updates to never miss new features and product improvements.
-
-# Features
-The system can accurately identify people even when it has only “seen” their photo once. Technology-wise, CompreFace has several advantages over similar free face recognition solutions. CompreFace:
-
-- Supports both CPU and GPU and is easy to scale up
-- Is open source and self-hosted, which gives you additional guarantees for data security
-- Can be deployed either in the cloud or on premises
-- Can be set up and used without machine learning expertise
-- Uses FaceNet and InsightFace libraries, which use state-of-the-art face recognition methods
-- Starts quickly with just one docker command
-
-# Functionalities
-
-- Supports many face recognition services:
-  - [face detection](/docs/Face-services-and-plugins.md#face-detection)
-  - [face recognition](/docs/Face-services-and-plugins.md#face-recognition)
-  - [face verification](/docs/Face-services-and-plugins.md#face-verification)
-  - [landmark detection plugin](/docs/Face-services-and-plugins.md#face-plugins)
-  - [age recognition plugin](/docs/Face-services-and-plugins.md#face-plugins)
-  - [gender recognition plugin](/docs/Face-services-and-plugins.md#face-plugins)
-  - [face mask detection plugin](/docs/Face-services-and-plugins.md#face-plugins)
-  - [head pose plugin](/docs/Face-services-and-plugins.md#face-plugins)
-- Use the CompreFace UI panel for convenient user roles and access management
-
-# Getting Started with CompreFace
-
-### Requirements
-
-1. Docker and Docker compose (or Docker Desktop)
-2. CompreFace could be run on most modern computers with [x86 processor](https://en.wikipedia.org/wiki/X86) and [AVX support](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions).
-   To check AVX support on Linux run `lscpu | grep avx` command
-
-### To get started (Linux, MacOS):
-
-1. Install Docker and Docker Compose
-2. Download the archive from our latest release: https://github.com/exadel-inc/CompreFace/releases
-3. Unzip the archive
-4. Open the terminal in this folder and run this command: `docker-compose up -d`
-5. Open the service in your browser: http://localhost:8000/login
-
-### To get started (Windows):
-
-1. Install Docker Desktop
-2. Download the archive from our latest release: https://github.com/exadel-inc/CompreFace/releases
-3. Unzip the archive
-4. Run Docker
-5. Open Command prompt (write `cmd` in windows search bar)
-6. Open folder where you extracted zip archive (Write `cd path_of_the_folder`, press enter).
-7. Run command: `docker-compose up -d`
-8. Open http://localhost:8000/login
-
-### Getting started for contributors
-
-Follow this [link](/dev)
-
-# CompreFace SDKs
-
-| SDK        | Repository                                              |
-|------------|---------------------------------------------------------|
-| JavaScript | https://github.com/exadel-inc/compreface-javascript-sdk |
-| Python     | https://github.com/exadel-inc/compreface-python-sdk     |
-| .NET       | https://github.com/exadel-inc/compreface-net-sdk        |
-
-# Documentation
-
-More documentation is available [here](/docs)
-
-# Contributing
-
-We want to improve our open-source face recognition solution, so your contributions are welcome and greatly appreciated. 
-
-* Just use CompreFace and [report](https://github.com/exadel-inc/CompreFace/issues) ideas and bugs on GitHub
-* Share knowledge and experience via posting guides and articles, or just improve our [documentation](https://github.com/exadel-inc/CompreFace/tree/master/docs)
-* Create [SDKs](https://github.com/topics/compreface-sdk) for favorite programming language, we will add it to our documentation
-* Integrate CompreFace support to other platforms like [Home Assistant](https://www.home-assistant.io/) or [DreamFactory](https://www.dreamfactory.com/), we will add it to our documentation
-* [Contribute](CONTRIBUTING.md) code
-* Add [plugin](/docs/Face-services-and-plugins.md#face-plugins) to face services
-* And last, but not least, you can just give a star to our free facial recognition system on GitHub
-
-For more information, visit our [contributing](CONTRIBUTING.md) guide, or create a [discussion](https://github.com/exadel-inc/CompreFace/discussions).
-
-# License info 
-
-CompreFace is open-source real-time facial recognition software released under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0.html).
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">新闻和更新</font></font></h1><a id="user-content-news-and-updates" class="anchor" aria-label="永久链接：新闻和更新" href="#news-and-updates"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://info.exadel.com/en/compreface-news-and-updates" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">订阅</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CompreFace 新闻和更新，不错过新功能和产品改进。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h1><a id="user-content-features" class="anchor" aria-label="永久链接：特点" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">即使系统只“看过”一次人的照片，也能准确地识别出人的身份。从技术角度来看，CompreFace 比类似的免费人脸识别解决方案具有多项优势。综合面：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">同时支持CPU和GPU，易于扩展</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源、自托管，为您的数据安全提供额外保障</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以部署在云端或本地</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无需机器学习专业知识即可设置和使用</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 FaceNet 和 InsightFace 库，它们使用最先进的人脸识别方法</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只需一个 docker 命令即可快速启动</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能</font></font></h1><a id="user-content-functionalities" class="anchor" aria-label="永久链接：功能" href="#functionalities"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持多种人脸识别服务：
+</font></font><ul dir="auto">
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Face-services-and-plugins.md#face-detection"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人脸检测</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Face-services-and-plugins.md#face-recognition"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人脸识别</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Face-services-and-plugins.md#face-verification"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人脸验证</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Face-services-and-plugins.md#face-plugins"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地标检测插件</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Face-services-and-plugins.md#face-plugins"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">年龄识别插件</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Face-services-and-plugins.md#face-plugins"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">性别识别插件</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Face-services-and-plugins.md#face-plugins"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">口罩检测插件</font></font></a></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/docs/Face-services-and-plugins.md#face-plugins"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">头部姿势插件</font></font></a></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 CompreFace UI 面板实现方便的用户角色和访问管理</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CompreFace 入门</font></font></h1><a id="user-content-getting-started-with-compreface" class="anchor" aria-label="永久链接：CompreFace 入门" href="#getting-started-with-compreface"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要求</font></font></h3><a id="user-content-requirements" class="anchor" aria-label="永久链接：要求" href="#requirements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 和 Docker compose（或 Docker Desktop）</font></font></li>
+<li><font style="vertical-align: inherit;"></font><a href="https://en.wikipedia.org/wiki/X86" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CompreFace 可以在大多数具有x86 处理器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://en.wikipedia.org/wiki/Advanced_Vector_Extensions" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AVX 支持的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现代计算机上运行</font><font style="vertical-align: inherit;">。要检查 Linux 上的 AVX 支持，请运行</font></font><code>lscpu | grep avx</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令</font></font></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始使用（Linux、MacOS）：</font></font></h3><a id="user-content-to-get-started-linux-macos" class="anchor" aria-label="永久链接：开始使用（Linux、MacOS）：" href="#to-get-started-linux-macos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Docker 和 Docker Compose</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从我们的最新版本下载存档：</font></font><a href="https://github.com/exadel-inc/CompreFace/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/exadel-inc/CompreFace/releases</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">解压存档</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开此文件夹中的终端并运行以下命令：</font></font><code>docker-compose up -d</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在浏览器中打开服务：</font></font><a href="http://localhost:8000/login" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:8000/login</font></font></a></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始使用 (Windows)：</font></font></h3><a id="user-content-to-get-started-windows" class="anchor" aria-label="永久链接：开始 (Windows)：" href="#to-get-started-windows"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Docker 桌面</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从我们的最新版本下载存档：</font></font><a href="https://github.com/exadel-inc/CompreFace/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/exadel-inc/CompreFace/releases</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">解压存档</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行 Docker</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开命令提示符（</font></font><code>cmd</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Windows 搜索栏中写入）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开您提取 zip 存档的文件夹（写入</font></font><code>cd path_of_the_folder</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，按 Enter 键）。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行命令：</font></font><code>docker-compose up -d</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开</font></font><a href="http://localhost:8000/login" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:8000/login</font></font></a></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者入门</font></font></h3><a id="user-content-getting-started-for-contributors" class="anchor" aria-label="永久链接：贡献者入门" href="#getting-started-for-contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">点击此</font></font><a href="/exadel-inc/CompreFace/blob/master/dev"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CompreFace SDK</font></font></h1><a id="user-content-compreface-sdks" class="anchor" aria-label="永久链接：CompreFace SDK" href="#compreface-sdks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<table>
+<thead>
+<tr>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件开发工具包</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">存储库</font></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JavaScript</font></font></td>
+<td><a href="https://github.com/exadel-inc/compreface-javascript-sdk"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/exadel-inc/compreface-javascript-sdk</font></font></a></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python</font></font></td>
+<td><a href="https://github.com/exadel-inc/compreface-python-sdk"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/exadel-inc/compreface-python-sdk</font></font></a></td>
+</tr>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。网</font></font></td>
+<td><a href="https://github.com/exadel-inc/compreface-net-sdk"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/exadel-inc/compreface-net-sdk</font></font></a></td>
+</tr>
+</tbody>
+</table>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h1><a id="user-content-documentation" class="anchor" aria-label="永久链接：文档" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多文档可以</font></font><a href="/exadel-inc/CompreFace/blob/master/docs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在这里找到</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h1><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们希望改进我们的开源人脸识别解决方案，因此欢迎并非常感谢您的贡献。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只需使用 CompreFace 并在 GitHub 上</font></font><a href="https://github.com/exadel-inc/CompreFace/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">报告</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">想法和错误</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过发布指南和文章来分享知识和经验，或者只是改进我们的</font></font><a href="https://github.com/exadel-inc/CompreFace/tree/master/docs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为最喜欢的编程语言</font><font style="vertical-align: inherit;">创建</font></font><a href="https://github.com/topics/compreface-sdk"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SDK ，我们会将其添加到我们的文档中</font></font></a><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将 CompreFace 支持集成到</font></font><a href="https://www.home-assistant.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home Assistant</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://www.dreamfactory.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DreamFactory</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">等其他平台，我们会将其添加到我们的文档中</font></font></li>
+<li><a href="/exadel-inc/CompreFace/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为人脸服务</font><font style="vertical-align: inherit;">添加</font></font><a href="/exadel-inc/CompreFace/blob/master/docs/Face-services-and-plugins.md#face-plugins"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">插件</font></font></a><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最后但并非最不重要的一点是，您可以在 GitHub 上给我们的免费面部识别系统一颗星</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欲了解更多信息，请访问我们的</font></font><a href="/exadel-inc/CompreFace/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南，或创建</font></font><a href="https://github.com/exadel-inc/CompreFace/discussions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讨论</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证信息</font></font></h1><a id="user-content-license-info" class="anchor" aria-label="永久链接：许可证信息" href="#license-info"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://www.apache.org/licenses/LICENSE-2.0.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CompreFace 是在Apache 2.0 许可</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下发布的开源实时面部识别软件</font><font style="vertical-align: inherit;">。</font></font></p>
+</article></div>
